@@ -1,6 +1,6 @@
 # Multi-view_Datasets Summarization
 Hope there is helpful for you, and please cite our works, thanks!
-Notice that some datasets are packed in the Extrazip.
+Notice that some datasets are packed in the Extrazip from release.
 
 References:
 "Representation Learning in Multi-view Clustering: A Literature Review" 
